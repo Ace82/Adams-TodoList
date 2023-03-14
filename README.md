@@ -1,6 +1,5 @@
 ### To intsall all rhe required dependecies
-112321
-```
+11232
 npm install
 ```
 
